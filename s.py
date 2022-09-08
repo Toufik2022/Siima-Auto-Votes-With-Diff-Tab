@@ -11,7 +11,7 @@ def func(barrier):
 
     driver.get("https://siima.in/index.php/siima-votings-2022/") 
     
-    time.sleep(8) #if your internet connection is good then change 8 to 7 
+    time.sleep(8) #if your internet connection is good then change to 7 
 
     driver.find_element_by_id("elementor-tab-title-1422").click()
 
@@ -39,7 +39,7 @@ def func(barrier):
 
     b.click()
 
-number_of_threads = 10 #i entered 10 change to your required if your data is unlimited means change 10 to 20 tabs will open and vote automatically and close 
+number_of_threads = 5 #i entered 5 change to your required if your internet connection is unlimited means change 10 to 20 tabs will open and vote automatically and close 
 
 barrier = Barrier(number_of_threads)
 
