@@ -1,7 +1,7 @@
 # Siima-Auto-Votes-With-Diff-Tab
 Siima Auto Votes With Diff Tab Using Selenium With Python
 
-PRESENTING YOU THE FIRST SIIMA AWARD AUTO VOTES WITH DIFFERENT TABS IN GITHUB
+𝐏𝐑𝐄𝐒𝐄𝐍𝐓𝐈𝐍𝐆 𝐘𝐎𝐔 𝐓𝐇𝐄 𝐅𝐈𝐑𝐒𝐓 𝐒𝐈𝐈𝐌𝐀 𝐀𝐖𝐀𝐑𝐃 𝐀𝐔𝐓𝐎 𝐕𝐎𝐓𝐄𝐒 𝐖𝐈𝐓𝐇 𝐃𝐈𝐅𝐅𝐄𝐑𝐄𝐍𝐓 𝐓𝐀𝐁𝐒 𝐈𝐍 𝐆𝐈𝐓𝐇𝐔𝐁
 
 Change The Number Of Threads in 42 Line
 
